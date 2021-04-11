@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
-<h3 align="center">Web dev enthusiast</h3>
+<h3 align="center">I am inerested in Web dev and App dev</h3>
 <img align="right" alt="Coding" width="400" src="https://sauravmh.com/static/media/rotatingChair.d3229bd1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
