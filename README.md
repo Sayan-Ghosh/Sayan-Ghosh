@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
 <h3 align="center">I am inerested in Web dev and App dev</h3>
-<img align="right" alt="Coding" width="400" src="https://sauravmh.com/static/media/rotatingChair.d3229bd1.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sayan-g-a39596111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sayan-g-a39596111" height="30" width="40" /></a>
